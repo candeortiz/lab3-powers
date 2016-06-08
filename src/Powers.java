@@ -20,7 +20,7 @@ public class Powers {
 			System.out.println("continue?");
 			String choice = scan.next();
 			if (choice.equalsIgnoreCase("y") || choice.equalsIgnoreCase("yes")) {
-				// test 2
+				// test 25
 			} else {
 				cont = false;
 				System.out.println("goodbye!");
